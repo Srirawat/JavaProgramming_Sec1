@@ -1,0 +1,5 @@
+Student_id : 2313110526
+Student Name : Srirawat Panyasawan
+Major : IT
+Level : 1
+Faculty : Information Technology
