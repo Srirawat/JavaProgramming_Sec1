@@ -20,8 +20,8 @@ public class Example3 {
 		
 		double total = unit*priceperunit;
 		
-		System.out.println("\nTotal Price is "+ frm.format(total)+" baht.");
-		System.out.println("Add VAT 7% is "+ frm.format(((total*0.07)+total))+" baht.");
+		System.out.println("Total Price is "+ frm.format(total)+" baht.");
+		System.out.println("\nAdd VAT 7% is "+ frm.format(((total*0.07)+total))+" baht.");
 
 	}
 
